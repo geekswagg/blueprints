@@ -53,13 +53,13 @@
     "@microsoft/arbutus.theming": "1.0.3",
     "@microsoft/arbutus.tile": "1.0.3",
     "@microsoft/arbutus.use-space-styles": "1.0.3",
-    "gatsby": "^5.11.0",
+    "gatsby": "^5.14.1",
     "gatsby-plugin-image": "^3.11.0",
     "gatsby-plugin-manifest": "^5.11.0",
     "gatsby-plugin-sharp": "^5.11.0",
     "gatsby-plugin-sitemap": "^6.11.0",
     "gatsby-source-filesystem": "^5.11.0",
-    "gatsby-source-strapi": "^3.2.0",
+    "gatsby-source-strapi": "^5.0.3",
     "gatsby-transformer-json": "^5.11.0",
     "gatsby-transformer-remark": "^6.11.0",
     "gatsby-transformer-sharp": "^5.11.0",
@@ -68,7 +68,7 @@
     "react-dom": "^18.2.0",
     "react-markdown": "^8.0.7",
     "react-syntax-highlighter": "^15.5.0",
-    "sharp": "^0.32.1"
+    "sharp": "^0.32.6"
   },
   "devDependencies": {
     "@microsoft/arbutus.prop-docs-cli": "^1.0.2",
