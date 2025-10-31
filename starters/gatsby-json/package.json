@@ -17,7 +17,7 @@
   "dependencies": {
     "@codesandbox/sandpack-react": "^2.6.9",
     "@fluentui/react-avatar": "^9.5.6",
-    "@fluentui/react-charting": "^5.16.44",
+    "@fluentui/react-charting": "^5.24.37",
     "@fluentui/react-icons": "^2.0.204",
     "@fluentui/react-text": "^9.3.13",
     "@fluentui/react-theme": "^9.1.9",
